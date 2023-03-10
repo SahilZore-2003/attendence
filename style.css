@@ -21,6 +21,7 @@ h1 {
 
 .container {
     padding-bottom: 3rem;
+    max-width: 700px;
 }
 
 .flex {
