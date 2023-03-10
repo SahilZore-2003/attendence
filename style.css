@@ -157,3 +157,15 @@ span {
     font-size: 3rem;
     display: none;
 }
+
+@media (max-width:430px){
+    html {
+        font-size: 50.50%;
+    }
+}
+
+@media (max-width:350px){
+    html {
+        font-size: 40.50%;
+    }
+}
